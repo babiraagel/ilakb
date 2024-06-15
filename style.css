@@ -1,0 +1,27 @@
+@font-face:<style>
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+</style>
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body {
+    font-family: "josefin", sans-serif;
+}
+li {
+    list-style: none;
+}
+a { text-decoration: none;}
+
+h1 {
+    font-weight: 300;
+}
+h2 {
+    font-weight: 300;
+}
+p {
+    line-height: 26px;
+    letter-spacing: 2px;
+}
